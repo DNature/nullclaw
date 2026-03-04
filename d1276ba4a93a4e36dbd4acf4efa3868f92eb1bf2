@@ -1,0 +1,23 @@
+docs/plans/2026-03-04-agent-workspace-isolation-design.md
+  75349463cebd2654 1-127
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "d1276ba4a93a4e36dbd4acf4efa3868f92eb1bf2",
+  "prompts": {
+    "75349463cebd2654": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcfdcd60-6811-405d-8653-e31cefe061c1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 127,
+      "total_deletions": 0,
+      "accepted_lines": 127,
+      "overriden_lines": 0
+    }
+  }
+}
