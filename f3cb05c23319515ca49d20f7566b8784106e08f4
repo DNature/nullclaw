@@ -1,0 +1,59 @@
+src/memory/engines/lucid.zig
+  75349463cebd2654 440,442,450,452,564,634,637,864
+src/memory/lifecycle/snapshot.zig
+  75349463cebd2654 223,228,233
+src/tools/memory_forget.zig
+  75349463cebd2654 40
+src/memory/engines/memory_lru.zig
+  75349463cebd2654 248,345,399,422,438,443,456,477,480,496,504,508,613,615,655,670,682,696,723,730,745,791,823,836,855,858
+src/memory/engines/api.zig
+  75349463cebd2654 582,615
+src/memory/lifecycle/hygiene.zig
+  75349463cebd2654 85,200
+src/main.zig
+  75349463cebd2654 846
+src/memory/root.zig
+  75349463cebd2654 337,339,357-358,365-366
+src/session.zig
+  75349463cebd2654 1177,1181,1215,1219,1253,1257,1291,1295
+src/memory/engines/none.zig
+  75349463cebd2654 32,40,90,101
+src/memory/engines/sqlite.zig
+  75349463cebd2654 269-270,346-347,848,865,937,947,995,1009,1013,1017,1021,1032,1045,1048,1060,1071,1160,1267,1298,1347,1350-1351,1363,1419,1448,1477,1492,1610,1631,1647,1651,1656,1742,1746,1845,1858,1870,1877,1892
+src/memory/engines/redis.zig
+  75349463cebd2654 388,568,994,998,1007,1028-1029,1052-1053,1067,1070
+src/agent/commands.zig
+  75349463cebd2654 2587
+src/memory/engines/markdown.zig
+  75349463cebd2654 294,360,416-418,606
+src/agent/root.zig
+  75349463cebd2654 4035
+src/memory/engines/lancedb.zig
+  75349463cebd2654 438,559,655,673,724,739
+src/memory/engines/contract_test.zig
+  75349463cebd2654 37,62,101,107,122,139,165,192
+src/memory/engines/postgres.zig
+  75349463cebd2654 453,515
+src/memory/engines/sqlite_disabled.zig
+  75349463cebd2654 150,158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "f3cb05c23319515ca49d20f7566b8784106e08f4",
+  "prompts": {
+    "75349463cebd2654": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcfdcd60-6811-405d-8653-e31cefe061c1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 139,
+      "total_deletions": 137,
+      "accepted_lines": 139,
+      "overriden_lines": 0
+    }
+  }
+}
