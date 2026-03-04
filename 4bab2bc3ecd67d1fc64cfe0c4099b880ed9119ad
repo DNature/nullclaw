@@ -1,0 +1,25 @@
+src/migration.zig
+  75349463cebd2654 135
+src/main.zig
+  75349463cebd2654 865
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "4bab2bc3ecd67d1fc64cfe0c4099b880ed9119ad",
+  "prompts": {
+    "75349463cebd2654": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcfdcd60-6811-405d-8653-e31cefe061c1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
