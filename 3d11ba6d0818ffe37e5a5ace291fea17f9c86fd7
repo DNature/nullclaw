@@ -1,0 +1,27 @@
+src/memory/engines/contract_test.zig
+  75349463cebd2654 213-268,292-298
+src/memory/engines/sqlite.zig
+  75349463cebd2654 2196-2266
+src/config.zig
+  75349463cebd2654 4554-4607
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "3d11ba6d0818ffe37e5a5ace291fea17f9c86fd7",
+  "prompts": {
+    "75349463cebd2654": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcfdcd60-6811-405d-8653-e31cefe061c1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 188,
+      "total_deletions": 0,
+      "accepted_lines": 188,
+      "overriden_lines": 0
+    }
+  }
+}
