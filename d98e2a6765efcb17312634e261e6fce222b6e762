@@ -1,0 +1,35 @@
+src/tools/root.zig
+  75349463cebd2654 485-504,917-952
+src/tools/memory_store.zig
+  75349463cebd2654 15,49,155-174
+src/tools/memory_forget.zig
+  75349463cebd2654 14,41,125-146
+src/agent/cli.zig
+  75349463cebd2654 309-310,407-408
+src/tools/memory_recall.zig
+  75349463cebd2654 17,50,65,251-270
+src/tools/memory_list.zig
+  75349463cebd2654 13,45,47
+src/agent/root.zig
+  75349463cebd2654 1466-1470,1496-1513
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "d98e2a6765efcb17312634e261e6fce222b6e762",
+  "prompts": {
+    "75349463cebd2654": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcfdcd60-6811-405d-8653-e31cefe061c1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 158,
+      "total_deletions": 9,
+      "accepted_lines": 155,
+      "overriden_lines": 0
+    }
+  }
+}
