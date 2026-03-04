@@ -1,0 +1,83 @@
+src/agent/root.zig
+  75349463cebd2654 1466-1470,1496-1513,4058
+src/memory/lifecycle/hygiene.zig
+  75349463cebd2654 85,200
+src/config.zig
+  75349463cebd2654 1015-1064,2692,2886-2902,4413-4607
+src/memory/engines/lancedb.zig
+  75349463cebd2654 438,559,655,673,724,739
+src/memory/engines/redis.zig
+  75349463cebd2654 388,568,994,998,1007,1028-1029,1052-1053,1067,1070
+src/tools/root.zig
+  75349463cebd2654 485-504,917-952
+src/main.zig
+  75349463cebd2654 846,865
+src/memory/engines/sqlite_disabled.zig
+  75349463cebd2654 150,158
+src/migration.zig
+  75349463cebd2654 135
+src/memory/engines/postgres.zig
+  75349463cebd2654 453,515
+src/agent/cli.zig
+  75349463cebd2654 81,116-119,156-181,306-307,309-310,404-405,407-408,570-587
+src/session.zig
+  75349463cebd2654 14,39-58,72-76,78-79,182-206,215-216,1232,1236,1270,1274,1308,1312,1346,1350,1653-1749
+src/subagent.zig
+  75349463cebd2654 92,125,327-344,369-373,385-396,399,409,736-770
+src/memory/root.zig
+  75349463cebd2654 337,339,357-358,365-366
+src/tools/memory_store.zig
+  75349463cebd2654 15,49,155-174
+docs/plans/2026-03-04-agent-workspace-isolation.md
+  75349463cebd2654 1-919
+src/memory/lifecycle/snapshot.zig
+  75349463cebd2654 223,228,233
+src/memory/engines/lucid.zig
+  75349463cebd2654 440,442,450,452,564,634,637,864
+src/agent/commands.zig
+  75349463cebd2654 2587
+src/tools/memory_list.zig
+  75349463cebd2654 13,45,47
+src/tools/memory_forget.zig
+  75349463cebd2654 14,41,125-146
+src/config_parse.zig
+  75349463cebd2654 489-491
+src/memory/engines/contract_test.zig
+  75349463cebd2654 37,62,101,107,122,139,165,192,213-268,292-298
+src/config_types.zig
+  75349463cebd2654 1235
+src/memory/engines/none.zig
+  75349463cebd2654 32,40,90,101
+src/memory/engines/memory_lru.zig
+  75349463cebd2654 248,345,399,422,438,443,456,477,480,496,504,508,613,615,655,670,682,696,723,730,745,791,823,836,855,858
+src/memory/engines/api.zig
+  75349463cebd2654 582,615
+docs/plans/2026-03-04-agent-workspace-isolation-design.md
+  75349463cebd2654 1-127
+src/tools/memory_recall.zig
+  75349463cebd2654 17,50,65,251-270
+src/memory/engines/sqlite.zig
+  75349463cebd2654 49,211-329,349,388,391-396,403-405,472,475-479,486-488,980,997,1069,1079,1127,1141,1145,1149,1153,1164,1177,1180,1192,1203,1292,1399,1430,1479,1482-1483,1495,1551,1580,1609,1624,1732,1736,1738,1743,1764,1780,1784,1789,1875,1879,1978,1991,1996,2002-2004,2006,2009,2012,2015,2017-2018,2021,2026-2028,2030,2032-2036,2082-2266
+src/memory/engines/markdown.zig
+  75349463cebd2654 294,360,416-418,606
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "d0a7f736b5fb266c47aaa3e4ffa42d6c18bd3952",
+  "prompts": {
+    "75349463cebd2654": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dcfdcd60-6811-405d-8653-e31cefe061c1",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 0,
+      "total_deletions": 0,
+      "accepted_lines": 2291,
+      "overriden_lines": 0
+    }
+  }
+}
