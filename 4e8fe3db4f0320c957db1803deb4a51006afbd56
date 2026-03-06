@@ -1,0 +1,25 @@
+src/from_json.zig
+  9a4918b0938d6a9e 53-58
+src/gateway.zig
+  9a4918b0938d6a9e 2710-2713
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "4e8fe3db4f0320c957db1803deb4a51006afbd56",
+  "prompts": {
+    "9a4918b0938d6a9e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c2b494a5-0561-4e13-8661-d06e37ffa4ad",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 0,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
