@@ -1,0 +1,39 @@
+src/agent/root.zig
+  6676b309f29c9ef4 398,403
+  9a4918b0938d6a9e 246,381,1674-1675,4399-4432
+src/multimodal.zig
+  9a4918b0938d6a9e 31-33,172-173,189,793-817
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.8",
+  "base_commit_sha": "f3036284381c6da091f8a5c41dadd3f839d6f4ea",
+  "prompts": {
+    "6676b309f29c9ef4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "68c37031-f16c-46ae-abc4-c72388472732",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 59,
+      "total_deletions": 2,
+      "accepted_lines": 59,
+      "overriden_lines": 0
+    },
+    "9a4918b0938d6a9e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c2b494a5-0561-4e13-8661-d06e37ffa4ad",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Divine Hycenth <divinehycenth8@gmail.com>",
+      "messages": [],
+      "total_additions": 83,
+      "total_deletions": 15,
+      "accepted_lines": 69,
+      "overriden_lines": 0
+    }
+  }
+}
